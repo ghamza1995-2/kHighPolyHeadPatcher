@@ -1,0 +1,17 @@
+{
+  "Nickname": "",
+  "Visibility": "Visible",
+  "OneLineDescription": "",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "High Poly Head.esm",
+    "Skyrim.esm",
+    "Update.esm"
+  ],
+  "TargetedReleases": [
+    "SkyrimSE",
+    "SkyrimVR",
+    "SkyrimSEGog"
+  ]
+}
