@@ -4,11 +4,7 @@
   "OneLineDescription": "",
   "LongDescription": "",
   "PreferredAutoVersioning": "Default",
-  "RequiredMods": [
-    "High Poly Head.esm",
-    "Skyrim.esm",
-    "Update.esm"
-  ],
+  "RequiredMods": [],
   "TargetedReleases": [
     "SkyrimSE",
     "SkyrimVR",
